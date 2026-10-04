@@ -1,0 +1,14 @@
+# --- secrets: never commit ---
+*token*
+*secret*
+*credential*
+*.env
+.env
+*.key
+*.pem
+
+# --- python scratch ---
+_*.py
+__pycache__/
+*.pyc
+finance-tracker-demo.xlsx
